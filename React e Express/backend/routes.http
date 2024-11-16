@@ -1,0 +1,11 @@
+POST http://localhost:3001
+Content-Type: application/json
+
+{
+    "email": "asndhbsyabdas@gamil.com",
+    "senha": "lpasnduiasdsa"
+}
+
+###
+
+GET http://localhost:3001
